@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelritter/hello-world-with-NodeJS.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Rafael Ritter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelritter/hello-world-with-NodeJS/issues"
+  },
+  "homepage": "https://github.com/rafaelritter/hello-world-with-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
